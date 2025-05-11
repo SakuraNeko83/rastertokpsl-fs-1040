@@ -1,2 +1,3 @@
-This is a driver only for FS-1040. 
+This is a driver for FS-1040 which will work also with FS-1041.
+You have to install "libcupsimage2" (apt install libcupsimage2)
 To install it: type ./install.sh in the driver folder.
